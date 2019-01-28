@@ -1,0 +1,46 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\paekv\\SymbolicCalculationsLabs\\SymbCalc_L2\\SymbCalc_L2.csproj",
+    "projectName": "SymbCalc_L2",
+    "projectPath": "C:\\Users\\paekv\\SymbolicCalculationsLabs\\SymbCalc_L2\\SymbCalc_L2.csproj",
+    "outputPath": "C:\\Users\\paekv\\SymbolicCalculationsLabs\\SymbCalc_L2\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "net461"
+    ],
+    "frameworks": {
+      "net461": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net461": {
+      "dependencies": {
+        "OxyPlot.WindowsForms": {
+          "target": "Package",
+          "version": "[2.0.0-unstable1035, )"
+        },
+        "OxyPlot.Wpf": {
+          "target": "Package",
+          "version": "[2.0.0-unstable1035, )"
+        }
+      }
+    }
+  },
+  "runtimes": {
+    "win7-x86": {
+      "#import": []
+    }
+  }
+}

@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/SymbCalc_L2/MathExpression/Function.cs" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ea2afd5-a071-41ea-9763-df14cdcbef7f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SymbCalc_L2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SymbCalc_L2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SymbCalc_L2/bin/Debug/net461/SymbCalc_L2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SymbCalc_L2/bin/Debug/net461/SymbCalc_L2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SymbCalc_L2/bin/Debug/net461/SymbCalc_L2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SymbCalc_L2/bin/Debug/net461/SymbCalc_L2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SymbCalc_L2/obj/Debug/net461/SymbCalc_L2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SymbCalc_L2/obj/Debug/net461/SymbCalc_L2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SymbCalc_L2/obj/Debug/net461/SymbCalc_L2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SymbCalc_L2/obj/Debug/net461/SymbCalc_L2.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#81#0" expanded="true" />
+                <marker date="1548592057625" expanded="true" signature="124:905" ph="{...}" />
+                <marker date="1548592057625" expanded="true" signature="170:899" ph="{...}" />
+                <marker date="1548592057625" expanded="true" signature="771:889" ph="/* XmlDocument res = parseProcessor.parseToInputFromMathModel(computed); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Operations/Computator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+              <folding>
+                <marker date="1548587715878" expanded="false" signature="6:192" ph="..." />
+                <marker date="1548587715878" expanded="true" signature="212:6178" ph="{...}" />
+                <marker date="1548587715878" expanded="true" signature="255:6176" ph="{...}" />
+                <marker date="1548587715878" expanded="true" signature="353:1642" ph="{...}" />
+                <marker date="1548587715878" expanded="true" signature="511:1393" ph="{...}" />
+                <marker date="1548587715878" expanded="true" signature="1723:3680" ph="{...}" />
+                <marker date="1548587715878" expanded="true" signature="2357:2970" ph="{...}" />
+                <marker date="1548587715878" expanded="true" signature="2458:2640" ph="{...}" />
+                <marker date="1548587715878" expanded="true" signature="2661:2956" ph="{...}" />
+                <marker date="1548587715878" expanded="true" signature="3226:3460" ph="{...}" />
+                <marker date="1548587715878" expanded="true" signature="3734:4090" ph="{...}" />
+                <marker date="1548587715878" expanded="true" signature="4153:4669" ph="{...}" />
+                <marker date="1548587715878" expanded="true" signature="4717:5182" ph="{...}" />
+                <marker date="1548587715878" expanded="true" signature="5251:6075" ph="{...}" />
+                <marker date="1548587715878" expanded="true" signature="5463:5556" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Operations/Simplification.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+              <folding>
+                <marker date="1548586988497" expanded="false" signature="6:73" ph="..." />
+                <marker date="1548586988497" expanded="true" signature="104:7757" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="138:7651" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="231:1577" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="433:1567" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="1161:1448" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="1669:1973" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="1794:1939" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="2043:3107" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="2159:3000" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="2373:2982" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="3186:3825" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="3355:3630" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="3427:3553" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="3877:4873" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="3964:4137" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="4030:4123" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="4432:4789" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="4967:5810" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="5258:5681" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="5304:5414" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="5883:7645" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="5982:7611" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="6156:7446" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="6370:7428" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="6459:6762" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="6835:7138" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="7167:7310" ph="{...}" />
+                <marker date="1548586988497" expanded="true" signature="7670:7755" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Defenition/Equation.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+              <folding>
+                <marker date="1548240070548" expanded="true" signature="63:843" ph="{...}" />
+                <marker date="1548240070548" expanded="true" signature="104:841" ph="{...}" />
+                <marker date="1548240070548" expanded="true" signature="274:425" ph="{...}" />
+                <marker date="1548240070548" expanded="true" signature="771:835" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Visualisation/PlotModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="786">
+              <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+              <folding>
+                <marker date="1548583259687" expanded="false" signature="6:198" ph="..." />
+                <marker date="1548583259687" expanded="true" signature="225:2275" ph="{...}" />
+                <marker date="1548583259687" expanded="true" signature="254:2273" ph="{...}" />
+                <marker date="1548583259687" expanded="true" signature="561:1125" ph="{...}" />
+                <marker date="1548583259687" expanded="true" signature="1161:1268" ph="{...}" />
+                <marker date="1548583259687" expanded="true" signature="1316:2267" ph="{...}" />
+                <marker date="1548583259687" expanded="true" signature="1448:2244" ph="{...}" />
+                <marker date="1548583259687" expanded="true" signature="1727:2230" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SymbCalc_L2/MathExpression/Function.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <folding>
+                <marker date="1548240070970" expanded="false" signature="6:60" ph="..." />
+                <marker date="1548240070970" expanded="true" signature="90:2051" ph="{...}" />
+                <marker date="1548240070970" expanded="true" signature="136:2049" ph="{...}" />
+                <marker date="1548240070970" expanded="true" signature="321:416" ph="{...}" />
+                <marker date="1548240070970" expanded="true" signature="683:742" ph="{...}" />
+                <marker date="1548240070970" expanded="true" signature="798:2025" ph="{...}" />
+                <marker date="1548240070970" expanded="true" signature="977:1266" ph="{...}" />
+                <marker date="1548240070970" expanded="true" signature="1047:1204" ph="{...}" />
+                <marker date="1548240070970" expanded="true" signature="1464:1886" ph="{...}" />
+                <marker date="1548240070970" expanded="true" signature="1540:1872" ph="{...}" />
+                <marker date="1548240070970" expanded="true" signature="1593:1785" ph="{...}" />
+                <marker date="1548240070970" expanded="true" signature="1924:1990" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/MathExpression/Number.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/MathExpression/Function.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42073FCF-9EFD-4A92-A6F0-A4CC94099FE3/75/10df4de1/Number.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/Operations/Integrate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42073FCF-9EFD-4A92-A6F0-A4CC94099FE3/46/c8cea04b/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/Operations/Simplification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/Unit/GlobalUnit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/Operations/Computator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/IExpressionType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/ParseProcessor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/Defenition/Equation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/Types.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/UI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/Visualisation/PlotModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/Visualisation/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/Formats/Latex/LatexLexems.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/Formats/Latex/LatexParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SymbCalc_L2/Visualisation/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SymbCalc_L2/Computator.cs" />
+        <option value="$PROJECT_DIR$/SymbCalc_L2/Integrate.cs" />
+        <option value="$PROJECT_DIR$/SymbCalc_L2/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/SymbCalc_L2/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/SymbCalc_L2/FormPlot.cs" />
+        <option value="$PROJECT_DIR$/SymbCalc_L2/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/SymbCalc_L2/Form1.cs" />
+        <option value="$PROJECT_DIR$/SymbCalc_L2/PlotModel.cs" />
+        <option value="$PROJECT_DIR$/SymbCalc_L2/Visualisation/PlotModel.cs" />
+        <option value="$PROJECT_DIR$/SymbCalc_L2/Formats/Latex/LatexLexems.cs" />
+        <option value="$PROJECT_DIR$/SymbCalc_L2/Formats/Latex/LatexParser.cs" />
+        <option value="$PROJECT_DIR$/SymbCalc_L2/Operations/Simplification.cs" />
+        <option value="$PROJECT_DIR$/SymbCalc_L2/Operations/Computator.cs" />
+        <option value="$PROJECT_DIR$/SymbCalc_L2/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SymbCalc_L2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SymCal_2/WpfApplication2/WpfApplication2/QW.cs" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SymbCalc_L2/bin/Debug/netcoreapp2.0/SymbCalc_L2.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SymbCalc_L2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SymbCalc_L2/SymbCalc_L2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ea2afd5-a071-41ea-9763-df14cdcbef7f" name="Default Changelist" comment="" />
+      <created>1548239873994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548239873994</updated>
+      <workItem from="1548239876338" duration="24799000" />
+      <workItem from="1548701991925" duration="557000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25356000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45499182" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47135842" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.46972176" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.36824876" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.31423897" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/UI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1548240165674" expanded="false" signature="6:71" ph="..." />
+            <marker date="1548240165674" expanded="true" signature="91:1441" ph="{...}" />
+            <marker date="1548240165674" expanded="true" signature="113:1439" ph="{...}" />
+            <marker date="1548240165674" expanded="true" signature="737:857" ph="{...}" />
+            <marker date="1548240165674" expanded="true" signature="901:1284" ph="{...}" />
+            <marker date="1548240165674" expanded="true" signature="1345:1424" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/IExpressionType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <marker date="1548240135780" expanded="true" signature="53:246" ph="{...}" />
+            <marker date="1548240135780" expanded="true" signature="92:244" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Operations/Integrate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="85" column="47" selection-start-line="85" selection-start-column="47" selection-end-line="85" selection-end-column="47" />
+          <folding>
+            <marker date="1548240112824" expanded="false" signature="6:59" ph="..." />
+            <marker date="1548240112824" expanded="true" signature="90:3260" ph="{...}" />
+            <marker date="1548240112824" expanded="true" signature="119:3258" ph="{...}" />
+            <marker date="1548240112824" expanded="false" signature="378:602" ph="{...}" />
+            <marker date="1548240112824" expanded="true" signature="662:1302" ph="{...}" />
+            <marker date="1548240112824" expanded="true" signature="803:1113" ph="{...}" />
+            <marker date="1548240112824" expanded="true" signature="943:1041" ph="{...}" />
+            <marker date="1548240112824" expanded="true" signature="1177:1267" ph="{...}" />
+            <marker date="1548240112824" expanded="true" signature="1342:1535" ph="{...}" />
+            <marker date="1548240112824" expanded="true" signature="1577:2096" ph="{...}" />
+            <marker date="1548240112824" expanded="true" signature="2171:2391" ph="{...}" />
+            <marker date="1548240112824" expanded="true" signature="2474:2990" ph="{...}" />
+            <marker date="1548240112824" expanded="true" signature="3066:3252" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Types.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1548240165643" expanded="true" signature="33:460" ph="{...}" />
+            <marker date="1548240165643" expanded="true" signature="69:458" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/QW.cs" />
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/MainWindow.xaml.cs" />
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/MainWindow.xaml" />
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/FormPlot.cs" />
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Visualisation/Form1.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+          <folding>
+            <marker date="1548578178130" expanded="true" signature="21:2458" ph="{...}" />
+            <marker date="1548578178130" expanded="true" signature="47:2456" ph="{...}" />
+            <marker date="1548578178130" expanded="true" signature="70:154" ph="/// Required designer variable. ... " />
+            <marker date="1548578178130" expanded="true" signature="244:447" ph="/// Clean up any resources being used. ... " />
+            <marker date="1548578178130" expanded="true" signature="507:709" ph="{...}" />
+            <marker date="1548578178130" expanded="true" signature="576:654" ph="{...}" />
+            <marker date="1548578178130" expanded="false" signature="727:2384" ph="Windows Form Designer generated code" />
+            <marker date="1548578178130" expanded="true" signature="789:964" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1548578178130" expanded="true" signature="1011:2356" ph="{...}" />
+            <marker date="1548578178130" expanded="true" signature="1146:1194" ph="/* plot1 ... */" />
+            <marker date="1548578178130" expanded="true" signature="1882:1930" ph="/* Form1 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Visualisation/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <marker date="1548581460376" expanded="true" signature="6:56" ph="..." />
+            <marker date="1548581460376" expanded="true" signature="79:883" ph="{...}" />
+            <marker date="1548581460376" expanded="true" signature="92:158" ph="..." />
+            <marker date="1548581460376" expanded="true" signature="197:881" ph="{...}" />
+            <marker date="1548581460376" expanded="true" signature="250:875" ph="{...}" />
+            <marker date="1548581460376" expanded="true" signature="487:829" ph="{...}" />
+            <marker date="1548581460376" expanded="true" signature="682:767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/MathExpression/Number.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <marker date="1548240070954" expanded="true" signature="63:630" ph="{...}" />
+            <marker date="1548240070954" expanded="true" signature="107:628" ph="{...}" />
+            <marker date="1548240070954" expanded="true" signature="521:622" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42073FCF-9EFD-4A92-A6F0-A4CC94099FE3/75/10df4de1/Number.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="328" column="8" selection-start-line="328" selection-start-column="8" selection-end-line="328" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42073FCF-9EFD-4A92-A6F0-A4CC94099FE3/46/c8cea04b/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="161" column="8" selection-start-line="161" selection-start-column="8" selection-end-line="161" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Formats/Latex/LatexLexems.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <marker date="1548584661055" expanded="true" signature="68:2278" ph="{...}" />
+            <marker date="1548584661055" expanded="true" signature="99:2276" ph="{...}" />
+            <marker date="1548584661055" expanded="true" signature="328:1785" ph="{...}" />
+            <marker date="1548584661055" expanded="true" signature="1834:1963" ph="{...}" />
+            <marker date="1548584661055" expanded="true" signature="2010:2060" ph="{...}" />
+            <marker date="1548584661055" expanded="true" signature="2118:2171" ph="{...}" />
+            <marker date="1548584661055" expanded="true" signature="2223:2270" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/ParseProcessor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <marker date="1548240135812" expanded="false" signature="6:75" ph="..." />
+            <marker date="1548240135812" expanded="true" signature="95:1008" ph="{...}" />
+            <marker date="1548240135812" expanded="true" signature="129:1006" ph="{...}" />
+            <marker date="1548240135812" expanded="true" signature="270:397" ph="{...}" />
+            <marker date="1548240135812" expanded="true" signature="474:732" ph="{...}" />
+            <marker date="1548240135812" expanded="true" signature="817:1000" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Formats/Latex/LatexParser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="240" column="8" lean-forward="true" selection-start-line="240" selection-start-column="8" selection-end-line="240" selection-end-column="8" />
+          <folding>
+            <marker date="1548585384187" expanded="false" signature="6:280" ph="..." />
+            <marker date="1548585384187" expanded="true" signature="308:11205" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="349:11203" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="486:2654" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="830:1377" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="902:1363" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="1751:2644" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="2740:4461" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="2924:3097" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="3152:4451" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="4629:6299" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="4937:6162" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="5007:5492" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="5084:5474" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="5185:5421" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="5596:5739" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="5894:6148" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="6357:6458" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="6538:6690" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="6743:9886" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="6938:7393" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="7002:7379" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="8053:8335" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="8211:8321" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="8479:9574" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="9984:10615" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="10176:10582" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="10396:10568" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="10673:10928" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="11021:11066" ph="{...}" />
+            <marker date="1548585384187" expanded="true" signature="11152:11197" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Unit/GlobalUnit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+          <folding>
+            <marker date="1548240135687" expanded="true" signature="58:873" ph="{...}" />
+            <marker date="1548240135687" expanded="true" signature="95:871" ph="{...}" />
+            <marker date="1548240135687" expanded="true" signature="297:443" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#81#0" expanded="true" />
+            <marker date="1548592057625" expanded="true" signature="124:905" ph="{...}" />
+            <marker date="1548592057625" expanded="true" signature="170:899" ph="{...}" />
+            <marker date="1548592057625" expanded="true" signature="771:889" ph="/* XmlDocument res = parseProcessor.parseToInputFromMathModel(computed); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Operations/Computator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+          <folding>
+            <marker date="1548587715878" expanded="false" signature="6:192" ph="..." />
+            <marker date="1548587715878" expanded="true" signature="212:6178" ph="{...}" />
+            <marker date="1548587715878" expanded="true" signature="255:6176" ph="{...}" />
+            <marker date="1548587715878" expanded="true" signature="353:1642" ph="{...}" />
+            <marker date="1548587715878" expanded="true" signature="511:1393" ph="{...}" />
+            <marker date="1548587715878" expanded="true" signature="1723:3680" ph="{...}" />
+            <marker date="1548587715878" expanded="true" signature="2357:2970" ph="{...}" />
+            <marker date="1548587715878" expanded="true" signature="2458:2640" ph="{...}" />
+            <marker date="1548587715878" expanded="true" signature="2661:2956" ph="{...}" />
+            <marker date="1548587715878" expanded="true" signature="3226:3460" ph="{...}" />
+            <marker date="1548587715878" expanded="true" signature="3734:4090" ph="{...}" />
+            <marker date="1548587715878" expanded="true" signature="4153:4669" ph="{...}" />
+            <marker date="1548587715878" expanded="true" signature="4717:5182" ph="{...}" />
+            <marker date="1548587715878" expanded="true" signature="5251:6075" ph="{...}" />
+            <marker date="1548587715878" expanded="true" signature="5463:5556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Operations/Simplification.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+          <folding>
+            <marker date="1548586988497" expanded="false" signature="6:73" ph="..." />
+            <marker date="1548586988497" expanded="true" signature="104:7757" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="138:7651" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="231:1577" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="433:1567" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="1161:1448" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="1669:1973" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="1794:1939" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="2043:3107" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="2159:3000" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="2373:2982" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="3186:3825" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="3355:3630" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="3427:3553" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="3877:4873" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="3964:4137" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="4030:4123" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="4432:4789" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="4967:5810" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="5258:5681" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="5304:5414" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="5883:7645" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="5982:7611" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="6156:7446" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="6370:7428" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="6459:6762" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="6835:7138" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="7167:7310" ph="{...}" />
+            <marker date="1548586988497" expanded="true" signature="7670:7755" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Defenition/Equation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <marker date="1548240070548" expanded="true" signature="63:843" ph="{...}" />
+            <marker date="1548240070548" expanded="true" signature="104:841" ph="{...}" />
+            <marker date="1548240070548" expanded="true" signature="274:425" ph="{...}" />
+            <marker date="1548240070548" expanded="true" signature="771:835" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/MathExpression/Function.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <marker date="1548240070970" expanded="false" signature="6:60" ph="..." />
+            <marker date="1548240070970" expanded="true" signature="90:2051" ph="{...}" />
+            <marker date="1548240070970" expanded="true" signature="136:2049" ph="{...}" />
+            <marker date="1548240070970" expanded="true" signature="321:416" ph="{...}" />
+            <marker date="1548240070970" expanded="true" signature="683:742" ph="{...}" />
+            <marker date="1548240070970" expanded="true" signature="798:2025" ph="{...}" />
+            <marker date="1548240070970" expanded="true" signature="977:1266" ph="{...}" />
+            <marker date="1548240070970" expanded="true" signature="1047:1204" ph="{...}" />
+            <marker date="1548240070970" expanded="true" signature="1464:1886" ph="{...}" />
+            <marker date="1548240070970" expanded="true" signature="1540:1872" ph="{...}" />
+            <marker date="1548240070970" expanded="true" signature="1593:1785" ph="{...}" />
+            <marker date="1548240070970" expanded="true" signature="1924:1990" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SymbCalc_L2/Visualisation/PlotModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="786">
+          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+          <folding>
+            <marker date="1548583259687" expanded="false" signature="6:198" ph="..." />
+            <marker date="1548583259687" expanded="true" signature="225:2275" ph="{...}" />
+            <marker date="1548583259687" expanded="true" signature="254:2273" ph="{...}" />
+            <marker date="1548583259687" expanded="true" signature="561:1125" ph="{...}" />
+            <marker date="1548583259687" expanded="true" signature="1161:1268" ph="{...}" />
+            <marker date="1548583259687" expanded="true" signature="1316:2267" ph="{...}" />
+            <marker date="1548583259687" expanded="true" signature="1448:2244" ph="{...}" />
+            <marker date="1548583259687" expanded="true" signature="1727:2230" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\paekv\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\paekv\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_SymbCalc_L2.495704869.00" t="ExcludeRecursive" />
+    <e p="C:\Users\paekv\SymbolicCalculationsLabs" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SymbCalc_L2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Context" t="Include">
+          <e p="Context.cs" t="Include" />
+          <e p="Table.cs" t="Include" />
+        </e>
+        <e p="Defenition" t="Include">
+          <e p="Equation.cs" t="Include" />
+          <e p="FunctionDefenition.cs" t="Include" />
+          <e p="IDefenition.cs" t="Include" />
+        </e>
+        <e p="Formats" t="Include">
+          <e p="IFormat.cs" t="Include" />
+          <e p="IParser.cs" t="Include" />
+          <e p="Latex" t="Include">
+            <e p="Latex.cs" t="Include" />
+            <e p="LatexLexems.cs" t="Include" />
+            <e p="LatexParser.cs" t="Include" />
+          </e>
+          <e p="Lexem.cs" t="Include" />
+          <e p="XML" t="Include">
+            <e p="XML.cs" t="Include" />
+            <e p="XmlParser.cs" t="Include" />
+          </e>
+        </e>
+        <e p="IExpressionType.cs" t="Include" />
+        <e p="MathExpression" t="Include">
+          <e p="Function.cs" t="Include" />
+          <e p="IMathExpression.cs" t="Include" />
+          <e p="Interval.cs" t="Include" />
+          <e p="MathList.cs" t="Include" />
+          <e p="Number.cs" t="Include" />
+          <e p="Variable.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net461" t="Include">
+              <e p="SymbCalc_L2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Operations" t="Include">
+          <e p="Computator.cs" t="Include" />
+          <e p="Integrate.cs" t="Include" />
+          <e p="IOperations.cs" t="Include" />
+          <e p="Simplification.cs" t="Include" />
+        </e>
+        <e p="ParseProcessor.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="SymbCalc_L2.csproj" t="IncludeRecursive" />
+        <e p="Types.cs" t="Include" />
+        <e p="UI.cs" t="Include" />
+        <e p="Unit" t="Include">
+          <e p="GlobalUnit.cs" t="Include" />
+          <e p="IUnit.cs" t="Include" />
+          <e p="WhileUnit.cs" t="Include" />
+        </e>
+        <e p="Visualisation" t="Include">
+          <e p="Form1.cs" t="Include" />
+          <e p="Form1.Designer.cs" t="Include" />
+          <e p="PlotModel.cs" t="Include" />
+        </e>
+      </e>
+      <e p="SymbCalc_L2.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
